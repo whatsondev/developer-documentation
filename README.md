@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/WhatsOnDev/developer-documentation">
-    <img src="https://whatson.guide/wp-content/uploads/2023/08/Logo-Red-01.png" alt="Logo" width="80" height="80">
+    <img src="https://whatson.guide/wp-content/uploads/2023/08/Logo-Red-01.png" alt="Logo">
   </a>
 
   <h3 align="center">ReadME About the Developer Documentation</h3>
